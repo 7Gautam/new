@@ -1,0 +1,26 @@
+.back{
+    background-color:transparent;
+    background-image: url(../../assets/images/773720.jpg);
+    background-position: 100px;
+    padding: 50px;
+    font-family: 'lucida Sans';
+    left: 60%;
+    position: absolute;
+      bottom: 50%;
+}
+.foot{
+  position: absolute;
+  right: 10%;
+  Bottom:20%;
+  font-family: 'Muli', sans-serif;
+}
+.ground{
+  position:absolute;
+  top: 119%;
+  right:20%;
+  background-color: rgb(236, 144, 22);
+}
+.box{
+  background-color: rgb(255, 251, 29);
+  height: 100px;
+}
